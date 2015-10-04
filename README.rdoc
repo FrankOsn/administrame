@@ -1,28 +1,9 @@
-== README
+Administrame is a web-app that will allow the Mercdo Libre sellers. We want to provide automated responses to their clients, like how much the shipping will cost to an specific Zipcode, questions about stock, from size and color to huge or small units.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+In this project, our intention is to use the ruby-sdk of mercadolibre.
 
-Things you may want to cover:
+The installation was straight forward to the c9 project.
 
-* Ruby version
+The instanciation was made in the Controller, de definition of the keys were there too. 
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+This was kind of learning the basic use of an API. 
